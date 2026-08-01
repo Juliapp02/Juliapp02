@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Julia <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjExNXp5YmRmaHg4NmF1azd2OWM4Nng0Yjh4bXBsMXZkbXR1bnBzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" width="70"> </h1>
 
 <!--
 **Juliapp02/Juliapp02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
