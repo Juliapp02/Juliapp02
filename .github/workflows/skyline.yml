@@ -16,4 +16,5 @@ jobs:
           filename: metrics.plugin.skyline.svg 
           token: NOT_NEEDED                    
           base: ""                           
-          plugin_skyline: yes              
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
