@@ -1,9 +1,13 @@
 <h1 align="center"> Hi, I'm Julia <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjExNXp5YmRmaHg4NmF1azd2OWM4Nng0Yjh4bXBsMXZkbXR1bnBzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" width="70"> </h1>
 
-
 <p align="center">
-  <img src="./metrics.plugin.skyline.svg" alt="GitHub Skyline">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliapp02show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp02&layout=compact&theme=dracula" width="48%" />
 </p>
+
+<!--<p align="center">
+  <img src="./metrics.plugin.skyline.svg" alt="GitHub Skyline">
+</p> -->
 
 <!--
 **Juliapp02/Juliapp02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
