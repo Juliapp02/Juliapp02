@@ -15,14 +15,14 @@
 
 ## ⚡ About Me
 
-<img width="40%" align="right" alt="Julia Coding" src="./assets/Girl_Coding.png" />
+<img width="39%" align="right" alt="Julia Coding" src="./assets/Girl_Coding.png" />
 
 Software Engineer based in Spain. I enjoy working on backend systems, databases, and side projects. Lately, I've been spending my free time diving into **Rust** and learning about **Data Science**.
 
 - 🎓 **Education:** Computer Engineering graduate (UGR)
 - ✈️ **Project:** Built **SkyStamp** for plane spotters
 - 🛠️ **Tech:** Python, C++, SQL, Rust
-- ✨ **Beyond Coding:** Aviation enthusiast ✈️ | Music lover 🎶 | Gluten-Free 🌾🚫
+- ✨ **Fun Facts:** Aviation enthusiast ✈️ | Music lover 🎶 | Gluten-Free 🌾🚫
 
 📫 ***Open** to software engineering opportunities and side projects. Feel free to reach out if you'd like to connect or collaborate!*
 
@@ -79,4 +79,13 @@ Software Engineer based in Spain. I enjoy working on backend systems, databases,
   <img src="https://cdn.simpleicons.org/jira" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/scrumalliance" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=latex" width="50" height="50" style="margin: 12px;" />
+</p>
+
+<br />
+
+<h2>📈 Coding Activity</h2>
+<br />
+<p align="center">
+  <img height="180px" src="https://github-readme-streak-stats-pxa6.vercel.app/?user=Juliapp02&theme=midnight-purple" />
+  <img height="180px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juliapp02&layout=compact&theme=midnight-purple" width="48%" />
 </p>
