@@ -86,6 +86,6 @@ Software Engineer based in Spain. I enjoy working on backend systems, databases,
 <h2>📈 Coding Activity</h2>
 <br />
 <p align="center">
-  <img height="180px" src="https://github-readme-streak-stats-pxa6.vercel.app/?user=Juliapp02&theme=midnight-purple" />
-  <img height="180px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juliapp02&layout=compact&theme=midnight-purple" width="48%" />
+  <img height="160px" src="https://github-readme-streak-stats-pxa6.vercel.app/?user=Juliapp02&theme=midnight-purple" width="48%" />
+  <img height="160px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juliapp02&layout=compact&theme=midnight-purple" width="48%" />
 </p>
