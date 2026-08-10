@@ -13,84 +13,70 @@
 <br />
 
 
-<p align="right">
-  <img src="./assets/coding-girl.gif" width="35%" alt="Coding girl" align="right" />
-</p><h2>⚡ About Me</h2>
+## ⚡ About Me
 
-<p>
-  Software Engineer based in Spain. I enjoy working on backend systems, databases, and side projects. Lately, I've been spending my free time diving into <b>Rust</b> and learning about <b>Data Science</b>.
-</p>
+<img width="40%" align="right" alt="Julia Coding" src="./assets/Girl_Coding.png" />
 
-<ul>
-  <li>🎓 <b>Education:</b> Computer Engineering graduate (UGR)</li>
-  <li>✈️ <b>Project:</b> Built <b>SkyStamp</b> for plane spotters</li>
-  <li>🛠️ <b>Tech:</b> Python, C++, SQL, Rust</li>
-  <li>✨ <b>Beyond Coding:</b> Aviation enthusiast ✈️ | Music lover 🎶 | Gluten-Free 🌾🚫</li>
-</ul>
+Software Engineer based in Spain. I enjoy working on backend systems, databases, and side projects. Lately, I've been spending my free time diving into **Rust** and learning about **Data Science**.
 
-<p>
-  💬 <i><b>Open</b> to software engineering opportunities and side projects. Feel free to reach out if you'd like to connect or collaborate!</i>
-</p>
+- 🎓 **Education:** Computer Engineering graduate (UGR)
+- ✈️ **Project:** Built **SkyStamp** for plane spotters
+- 🛠️ **Tech:** Python, C++, SQL, Rust
+- ✨ **Beyond Coding:** Aviation enthusiast ✈️ | Music lover 🎶 | Gluten-Free 🌾🚫
+
+📫 ***Open** to software engineering opportunities and side projects. Feel free to reach out if you'd like to connect or collaborate!*
+
+
 
 <br clear="all" />
+<br />
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2>🛠️ Tech Stack & Tools</h2>
 
 <br />
 
-<!-- Fila 1: Lenguajes y Frontend -->
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="75" height="75" style="margin: 12px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="margin: 12px;" />
 </p>
 
-<br />
-
-<!-- Fila 2: Backend, BD y Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/odoo" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="75" height="75" style="margin: 12px;" />
+  <img src="https://skillicons.dev/icons?i=rust" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/odoo" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" style="margin: 12px;" />
 </p>
 
-<br />
-
-<!-- Fila 3: Servidores, S.O. y DevOps -->
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=arch" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="75" height="75" style="margin: 12px;" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arch" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" style="margin: 12px;" />
 </p>
 
-<br />
-
-<!-- Fila 4: Virtualización, Almacenamiento y Herramientas -->
 <p align="center">
-  <img src="https://cdn.simpleicons.org/vagrant" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/virtualbox" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/minio" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="75" height="75" style="margin: 12px;" />
+  <img src="https://cdn.simpleicons.org/vagrant" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/virtualbox" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/minio" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" style="margin: 12px;" />
 </p>
 
-<!-- Fila 5: Gestión y Documentación -->
 <p align="center">
-  <img src="https://cdn.simpleicons.org/jira" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scrumalliance" width="75" height="75" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=latex" width="75" height="75" style="margin: 12px;" />
+  <img src="https://cdn.simpleicons.org/jira" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scrumalliance" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=latex" width="50" height="50" style="margin: 12px;" />
 </p>
