@@ -39,46 +39,15 @@ Software Engineer based in Spain. I enjoy working on backend systems, databases,
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="margin: 12px;" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=rust" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/odoo" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" style="margin: 12px;" />
-</p>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=arch" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" style="margin: 12px;" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/vagrant" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/virtualbox" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/minio" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" style="margin: 12px;" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/jira" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scrumalliance" width="50" height="50" style="margin: 12px;" /> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=latex" width="50" height="50" style="margin: 12px;" />
 </p>
 
 <br />
