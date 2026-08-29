@@ -15,7 +15,7 @@
 
 ## ⚡ About Me
 
-<img width="39%" align="right" alt="Julia Coding" src="./assets/Girl_Coding.png" />
+<img width="36%" align="right" alt="Julia Coding" src="./assets/Girl_Coding.png" />
 
 Software Engineer based in Spain. I enjoy working on backend systems, databases, and side projects. Lately, I've been spending my free time diving into **Rust** and learning about **Data Science**.
 
