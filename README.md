@@ -13,18 +13,16 @@
 <br />
 
 
-## ⚡ About Me
+### ⚡ About Me
 
-<img width="36%" align="right" alt="Julia Coding" src="./assets/Girl_Coding.png" />
+Software Engineer based in Spain. I enjoy working on backend systems, databases, infrastructure, and data-driven projects. Currently pursuing a **Master's in Data Science and Computer Engineering at UGR**.
 
-Software Engineer based in Spain. I enjoy working on backend systems, databases, and side projects. Lately, I've been spending my free time diving into **Rust** and learning about **Data Science**.
+* 🎓 **Education:** M.Sc. in Data Science & Computer Engineering | Computer Engineering Graduate (UGR)
+* ✈️ **Project:** Built **SkyStamp** for plane spotters
+* 🛠️ **Tech:** Python, SQL, C++, Linux, Docker
+* ✨ **Fun Facts:** Aviation enthusiast ✈️ | Music lover 🎶 | Gluten-Free 🌾🚫
 
-- 🎓 **Education:** Computer Engineering graduate (UGR)
-- ✈️ **Project:** Built **SkyStamp** for plane spotters
-- 🛠️ **Tech:** Python, C++, SQL, Rust
-- ✨ **Fun Facts:** Aviation enthusiast ✈️ | Music lover 🎶 | Gluten-Free 🌾🚫
-
-📫 ***Open** to software engineering opportunities and side projects. Feel free to reach out if you'd like to connect or collaborate!*
+📬 **Open** to junior data engineering, data science, and backend opportunities. Feel free to reach out if you'd like to connect or collaborate!
 
 
 
